@@ -1,9 +1,3 @@
-
-
-
-
-[https://www.youtube.com/channel/UCzXZDAEqtKjC5XEsfEOeMvg](https://youtu.be/13g4wDT1XWE)
-
 # 🚀 [Rodando Doom com ESP32]
 
 Este repositório contém todos os arquivos necessários para replicar o projeto apresentado no canal **[ShinobiArts]**.
@@ -11,8 +5,7 @@ Este repositório contém todos os arquivos necessários para replicar o projeto
 ---
 
 ## 📺 Assista ao Vídeo do Projeto
-[![Assista no YouTube]([LINK_DO_SEU_VÍDEO_AQUI](https://www.youtube.com/channel/UCzXZDAEqtKjC5XEsfEOeMvg](https://youtu.be/13g4wDT1XWE))
-
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)]([LINK_DO_SEU_VÍDEO_AQUI](https://youtu.be/13g4wDT1XWE))
 ---
 
 ## 📋 Descrição do Projeto
