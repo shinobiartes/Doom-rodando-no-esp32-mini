@@ -1,5 +1,12 @@
 # 🚀 [Rodando Doom com ESP32]
 
+## 📸 DOOM WITH ESP32
+![Menu](meu_doom2.png)
+
+## 📸 Circuito e Montagem
+![Esquema do Projeto](doom3.jpg)
+
+
 Este repositório contém todos os arquivos necessários para replicar o projeto apresentado no canal **[ShinobiArts]**.
 
 ---
@@ -9,7 +16,7 @@ Este repositório contém todos os arquivos necessários para replicar o projeto
 ---
 
 ## 📋 Descrição do Projeto
-Neste projeto, utilizamos um **ESP32** para [descreva brevemente o que o projeto faz, ex: controlar luzes via Wi-Fi].
+Neste projeto, utilizamos um **ESP32** para [recriar o universo de DOOM usando apenas a memoria flash].
 
 ## 🛠️ Materiais Utilizados
 * 1x ESP32-s3 super mini
@@ -21,9 +28,6 @@ Neste projeto, utilizamos um **ESP32** para [descreva brevemente o que o projeto
 * **/Codigo**: Contém o arquivo `.ino` para Arduino IDE.
 * **/Esquematicos**: Diagrama de montagem e circuito.
 * **bibliotecas.txt**: Adafruit_GFX,Adafruit_ST7735,SPI.
-
-## 📸 Circuito e Montagem
-![Esquema do Projeto](NOME_DA_SUA_IMAGEM.jpg)
 
 ---
 
